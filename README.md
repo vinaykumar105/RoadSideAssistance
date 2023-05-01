@@ -83,6 +83,7 @@ RoadSideAssistance\RoadsideAssistance.Application.UnitTests\Services\RoadSideAss
 - Not used `async` implementation
 - Testing is limited to only the core implementations
 - NetTopologySuite measures distance in Degrees instead of miles by default
+- Not all method parameters are protected by guards
 
 ### Limitations
 - Not Thread Safe
